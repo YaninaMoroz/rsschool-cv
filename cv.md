@@ -6,7 +6,7 @@ Email:    *ivjanol@gmail.com*
  
 > I am a responsible person focused on results. I always strive to learn something new and improve my skills. My goal is to become a good frontend-developer.
 
-**HTML,CSS,JavaScrypt**
+**HTML,CSS,JavaScript**
 
 **Waterfall** model, **V**-model, **Iterative** Model, **Incremental** Model, **Agile (Scrum, Kanban)**
 
@@ -16,7 +16,7 @@ Email:    *ivjanol@gmail.com*
 
 ```javascript
 function multiply(a, b) {
-  return a * b
+  return a * b;
 }
 ```
 
