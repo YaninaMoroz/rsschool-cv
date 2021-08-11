@@ -1,7 +1,8 @@
 :root {
     --tan-color: #D2B48C;
+    --dark-gray-color: #505050;
     --oldLace-color: #FDF5E6;
-    --forestGreen-color: #228B22;
+    --pale-olive-color: #bbd8b3;
   }
   body {
     box-sizing: border-box;
@@ -18,4 +19,9 @@
   }
   .two-columns {
       display: flex;
+  }
+  .left-column {
+    width: 42%;
+    color: var(--dark-gray-color);
+    background-color: var(--pale-olive-color);
   }
