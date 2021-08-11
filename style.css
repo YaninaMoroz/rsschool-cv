@@ -1,7 +1,7 @@
 :root {
     --tan-color: #D2B48C;
     --dark-gray-color: #505050;
-    --oldLace-color: #FDF5E6;
+    --old-lace-color: #FDF5E6;
     --pale-olive-color: #bbd8b3;
   }
   body {
@@ -24,4 +24,10 @@
     width: 42%;
     color: var(--dark-gray-color);
     background-color: var(--pale-olive-color);
+  }
+  .right-column {
+      width: 58%;
+      color: var(--dark-gray-color);
+      background-color: var(--old-lace-color);
+      padding: 40px;
   }
