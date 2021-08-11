@@ -67,3 +67,8 @@
   main li {
     margin-bottom: 10px;
   }
+  .contacts li p {
+      display: inline;
+      vertical-align: middle;
+  }
+  
