@@ -12,9 +12,10 @@
     margin: 20px auto;
     width: 1024px;
     font-family: "Verdana", sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.5;
-    background-color: #ffffff;
+    color: var(--dark-gray-color);
+    background-color: var(--old-lace-color);
     box-shadow: 10px 10px 40px -1px  rgba(0, 0, 0, 0.23);
   }
   .two-columns {
@@ -30,4 +31,9 @@
       color: var(--dark-gray-color);
       background-color: var(--old-lace-color);
       padding: 40px;
+  }
+  header {
+    padding: 30px;
+    text-align: center;
+    background-color: var(--old-lace-color);
   }
