@@ -75,4 +75,7 @@
       text-decoration: none;
       color: var(--dark-gray-color);
   }
-  
+ .language-name{
+     font-weight: 700;
+     text-transform: uppercase;
+ }
