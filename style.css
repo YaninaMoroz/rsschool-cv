@@ -50,3 +50,17 @@
     margin-bottom: 20px;
     letter-spacing: 2px;
   }
+  main {
+    padding: 0 40px;
+  }
+  
+  main h3 {
+    width: 136px;
+    margin: 40px auto 20px;
+    padding: 5px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--old-lace-color);
+    background-color: var(--dark-gray-color);
+  }
