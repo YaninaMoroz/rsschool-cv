@@ -49,7 +49,6 @@
     text-transform: uppercase;
     letter-spacing: 7px;
   }
-  
   header h2 {
     margin-bottom: 20px;
     letter-spacing: 2px;
@@ -57,7 +56,6 @@
   main {
     padding: 0 40px;
   }
-  
   main h3 {
     width: 136px;
     margin: 40px auto 20px;
@@ -74,6 +72,7 @@
   .contacts li img {
     vertical-align: middle;
     margin-right: 15px;
+    color: var(--dark-gray-color);
   }
   .contacts li p {
       display: inline;
@@ -82,7 +81,7 @@
   .contacts a{
       text-decoration: none;
       color: var(--dark-gray-color);
-  }
+  } 
  .language-name{
      font-weight: 700;
      text-transform: uppercase;
