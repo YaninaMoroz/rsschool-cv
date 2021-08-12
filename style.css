@@ -86,3 +86,10 @@
      font-weight: 700;
      text-transform: uppercase;
  }
+ pre {
+  margin-top: 20px;
+  padding-left: 30px;
+  font-size: 0.9rem;
+  background-color: var(--tan-color);
+}
+
