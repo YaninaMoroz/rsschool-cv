@@ -71,6 +71,10 @@
   main li {
     margin-bottom: 10px;
   }
+  .contacts li img {
+    vertical-align: middle;
+    margin-right: 15px;
+  }
   .contacts li p {
       display: inline;
       vertical-align: middle;
