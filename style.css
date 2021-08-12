@@ -37,6 +37,10 @@
     text-align: center;
     background-color: var(--old-lace-color);
   }
+  header img {
+    margin-bottom: 10px;
+    border: 10px solid var(--pale-olive-color)
+  }
   header h1 {
     margin-bottom: 10px;
     font-size: 2rem;
