@@ -1,3 +1,3 @@
 My CV
-+ https://yaninamoroz.github.io/rsschool-cv/cv
++ https://yaninamoroz.github.io/rsschool-cv/
 + 
